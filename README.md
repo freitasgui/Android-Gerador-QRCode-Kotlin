@@ -2,7 +2,7 @@
 
 Nesta aula cosntruiremos um aplicativo capaz de gerar QR Code. Utiizaremos a biblioteca Zxing, uma biblioteca openSource que está em constante revisão pela comunidade.
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-ba47455936.gif" alt="MarineGEO circle logo" style="height: 500px; "/>
+<img src="https://s4.gifyu.com/images/ezgif-3-efb6bbc803.gif" alt="MarineGEO circle logo" style="height: 500px; "/>
 
 # Importante!
 
